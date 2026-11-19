@@ -1,4 +1,4 @@
-# QA Audit Tool
+# QA Audit Toll
 
 A web app for call-centre quality audits. QA auditors score agents' calls
 against a scoring sheet, and agents log in to see their own results.
