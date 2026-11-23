@@ -2,9 +2,9 @@ const http = require("http");
 
 
 const agents = [
-    { id: 1, name: "Audit Agent" },
-    { id: 2, name: "Quality Agent" },
-    { id: 3, name: "Reporting Agent" }
+    { id: 1, name: "Shyama" },
+    { id: 2, name: "Rama" },
+    { id: 3, name: "Sudhama" }
 ];
 
 const port = 3000
